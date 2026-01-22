@@ -16,10 +16,11 @@ jobs:
       - name: Update README add daily word
         run: |
           WORD=$(shuf -n 1 messages/daily_words.txt)
-          
+          echo "today word: ${WORD}"
+
           cp README/README.md README.md
           sed -i "s|////.*////|${WORD}|" README.md # 正規表現で用意してあるメッセージを置き換える
-        
+      
       - name: commit & push
         run: |
           git config --local user.email "actions.github.com"
