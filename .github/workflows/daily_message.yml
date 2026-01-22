@@ -1,0 +1,29 @@
+name: daily word update
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # UTC 0:00
+  workflow_dispatch: # 手動実行用
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update README add daily word
+        run: |
+          WORD=$(shuf -n 1 messages/daily_words.txt)
+          
+          cp README/README.md README.md
+          sed -i "s|////.*////|${WORD}|" README.md # 正規表現で用意してあるメッセージを置き換える
+        
+      - name: commit & push
+        run: |
+          git config --local user.email "actions.github.com"
+          git config --local user.name "Github Action"
+          git add README.md
+          git commit -m "update daily word" || exit 0 # かぶった場合にエラーになるので回避
+          git push
