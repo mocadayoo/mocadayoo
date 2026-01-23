@@ -1,4 +1,4 @@
-name: daily word update
+name: Daily word update
 
 on:
   schedule:
