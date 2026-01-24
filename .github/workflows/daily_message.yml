@@ -2,7 +2,7 @@ name: Daily word update
 
 on:
   schedule:
-    - cron: '0 0 * * *' # UTC 0:00
+    - cron: '17 15 * * *' # JST 0:15
   workflow_dispatch: # 手動実行用
 
 jobs:
