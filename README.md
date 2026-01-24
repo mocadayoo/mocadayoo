@@ -25,7 +25,7 @@
 </div>
 
 ## Daily word, 今日の一言
-コードにコメントを残したいけど、まだどこに残せばいいかわからない。
+未来の自分よ、コード書き続けているかな。
 <!--
 This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 >>>>>>> master
