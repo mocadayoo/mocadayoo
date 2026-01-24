@@ -1,0 +1,11 @@
+on:
+  schedule:
+    - cron: '25 * * * *' 
+
+jobs:
+  test:
+    runs-on: uubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - run: "echo test"
