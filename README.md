@@ -25,7 +25,7 @@
 </div>
 
 ## Daily word, 今日の一言
-未来の自分よ、コード書き続けているかな。
+やる気があるなら時間がない、時間があるならやる気がない。
 <!--
 This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 >>>>>>> master
