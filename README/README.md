@@ -26,6 +26,9 @@
 
 ## Daily word, 今日の一言
 //// Daily word space ////
+
+## Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/1318172309424439318?theme=dark&hideActivity=true&idleMessage=I'm%20now%20afk%20sry)](https://discord.com/users/1318172309424439318)
 <!--
 This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 >>>>>>> master
