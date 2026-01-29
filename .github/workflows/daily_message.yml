@@ -1,6 +1,9 @@
 name: Daily word update
 
 on:
+  push:
+    paths:
+      - 'README/README.md'
   schedule:
     - cron: '17 15 * * *' # JST 0:15
   workflow_dispatch: # 手動実行用
