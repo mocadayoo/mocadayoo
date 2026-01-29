@@ -11,12 +11,12 @@
 - 🌱 I’m currently learning ts, c#, golang
 - 📫 How to reach me: still getting ready
 - 🐣 I'm biginner of github so i want to learn step by step✨
-<br>
-
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,python,cs,go" />
-<br>
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,python" />
+
+## 📚 learning skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=ts,cs,go" />
 
 ## 🏃‍♀️ Activities
 <div align="left"> 
@@ -25,22 +25,7 @@
 </div>
 
 ## Daily word, 今日の一言
-できないときに限って、やりたいことがたくさん出てくる不思議。
+コードにコメントを残したいけど、まだどこに残せばいいかわからない。
 
 ## Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/1318172309424439318?theme=dark&hideActivity=true&idleMessage=I'm%20now%20afk%20sry)](https://discord.com/users/1318172309424439318)
-<!--
-This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
->>>>>>> master
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
