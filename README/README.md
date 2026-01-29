@@ -11,12 +11,12 @@
 - 🌱 I’m currently learning ts, c#, golang
 - 📫 How to reach me: still getting ready
 - 🐣 I'm biginner of github so i want to learn step by step✨
-<br>
-
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,python,cs,go" />
-<br>
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,python" />
+
+## 📚 learning skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=ts,cs,go" />
 
 ## 🏃‍♀️ Activities
 <div align="left"> 
