@@ -20,12 +20,12 @@
 
 ## 🏃‍♀️ Activities
 <div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=mocadayoo&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mocadayoo&theme=vue-dark&layout=compact" />
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats-mirror-virid.vercel.app/api?username=mocadayoo&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats-mirror-virid.vercel.app/api/top-langs/?username=mocadayoo&theme=vue-dark&layout=compact" />
 </div>
 
 ## Daily word, 今日の一言
-できないときに限って、やりたいことがたくさん出てくる不思議。
+やる気があるなら時間がない、時間があるならやる気がない。
 
 ## Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/1318172309424439318?theme=dark&hideActivity=true&idleMessage=I'm%20now%20afk%20sry)](https://discord.com/users/1318172309424439318)
