@@ -25,7 +25,7 @@
 </div>
 
 ## Daily word, 今日の一言
-アイデア浮かんでも、ほとんどがすでに実現済みで、自分の遅れを知る。
+やる気ある日と、ない日の差がえぐすぎる。
 
 ## Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/1318172309424439318?theme=dark&hideActivity=true&idleMessage=I'm%20now%20afk%20sry)](https://discord.com/users/1318172309424439318)
